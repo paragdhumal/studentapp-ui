@@ -7,7 +7,7 @@
   <build>
     <extensions>
     <extension>
-      <groupId>org.apache.maven.plugins</groupId>
+      <groupId>io.packagecloud.maven.wagon</groupId>
       <artifactId>maven-packagecloud-wagon</artifactId>
       <version>0.0.6</version>
     </extension>
